@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,100:007acc&height=160&section=header&text=Planilha%20Clean&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/fluency/64/microsoft-excel-2019.png" width="60"/></td>
+    <td><h1>Planilha Clean</h1></td>
+  </tr>
+</table>
 
 **Ferramenta desktop para limpeza e deduplicação de planilhas Excel e CSV**
 
@@ -152,9 +157,3 @@ planilha-clean/
 ├── planilha_clean.py   # Aplicação principal
 └── README.md
 ```
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007acc,100:1e1e1e&height=100&section=footer" />
-</div>
